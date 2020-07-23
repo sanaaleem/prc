@@ -1,0 +1,32 @@
+vlan--> management,cost saving , policies deine separately alag clas
+icmp --> ping
+arp
+ses hune k bawajoud qk broadcast kartaaa hai 
+show vlan --> batadiya k 1 bna hua hai or inky kyaaa nae hai woh sab show
+access jaha koi device lagi hu
+arp--> broadcast ka msg
+ddue date: 18 august
+network simulate--> cisoc packet tracer pe nahi OMNER ++ 
+ree sotware hai open source hai 
+network simulate karta haa ara rip chlana ha to conig nhi btana ap bas ye bta rip chlana ha
+c++ , paraametersdeine 
+inet install kardu ??
+library --> jisme bohot sare modules bny bnaye haaa..
+inet --> odule select karna ha
+Network Scenerio bnana ha
+50 m ki range me
+etc
+lab 21
+lst timw switch tha
+access port
+aj trunc port
+2 switch hai usme 4 pc 2 vlans bnayngy
+
+TRUNK--> kisi bhi vlan ka data ja sakta hi
+restrict bhi kar  sakty k ek do a jaye
+
+default-- management --> 
+
+native 1 rakhna achi bat nahi hum apna nuber rakhyngy trunk poret k liyeee... kiisi bhi vlan ko khtam karsakty hai par trunk ko nahi default 1 huta hi
+har port ko acces port bnany ki nhi zarurat ,,, ek se ziada traic ho  to ek hi cable ko trunk port bna sakty,,is bat ka khyal rakhna hai k jis port ko trunk bnayeeee,, woh end device se conneceted na hu... abbhi humne switch to switch bnayi hai agy switch to router bnayngy
+theory based quiz mcqs hunge bas practical nahi huga within class timing vlan trunk port k hawaly se
